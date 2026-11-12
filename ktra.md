@@ -7,6 +7,7 @@
 - Chỉ sửa những gì cần để đạt kết quả người dùng yêu cầu. Giữ nguyên thay đổi có sẵn của người dùng và hành vi bên ngoài phạm vi. Tránh refactor, đổi tên, định dạng lại, nâng cấp dependency hoặc sửa lỗi khác nhân tiện.
 - Nếu cần mở rộng phạm vi để hoàn thành yêu cầu, nêu rõ phần phụ thuộc, lý do phải sửa và hỏi trước khi chỉnh phần đó. Tiếp tục các phần đã rõ và có thể làm độc lập.
 - Tránh mở rộng phạm vi nếu không cần thiết.
+- Nếu phải viết hướng dẫn, hãy viết vào một file .md theo dạng step-by-step.
 
 ## Quy trình thực hiện
 
